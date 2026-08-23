@@ -31,6 +31,13 @@
 **Sahil Ahmad** - Khyber Pakhtunkhwa, Pakistan
 GitHub: @bahmad-blip
 First Pakistani AI Desktop Software Developer
+> 🚧 **IMPORTANT NOTE FROM DEVELOPER (Sahil - Mardan)**
+> Bhaiyon! Main akela Mardan, KPK se ye software bana raha hun! 🙏
+> Version 2.0 me kuch kami hai - main roz check kar raha hun!
+> **Version 2.1 Next Week InshaAllah - Sab bugs fix honge!**
+> Agar koi masla mile to **Issues** me likh do - main turant fix karunga!
+> Shukriya - 6 Stars ke liye dil se JazakAllah! ❤️🇵🇰
+> ---
 
 ## 🔍 Search
 
