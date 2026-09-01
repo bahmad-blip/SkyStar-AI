@@ -2,12 +2,16 @@
 
 **The First Professional AI Desktop Assistant Made in Pakistan by Sahil Ahmad - Maini, KPK**
 
-## 📥 DOWNLOAD NOW - FREE FOR WINDOWS
-
 ### 📧 GET DOWNLOAD LINK - Fill Form (Email for v2.1 Update)
 
 👉 **[Click Here to Get Download Link - Fill Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdXAcOgvNjMsYOvOKG0ireHUjUGOPBI-zYw10TE0gfjWcUfCA/viewform?usp=dialog)**
 
+Fill form → Email do → Instant download link milega! v2.1 update email pe bhejunga!
+⭐ 13 Stars Already - Join 100+ Downloaders!
+
+---
+
+### 📥 DOWNLOAD NOW - FREE FOR WINDOWS
 Fill form → Email do → Instant download link milega! v2.1 update email pe bhejunga!
 ⭐ 13 Stars Already - Join 100+ Downloaders!
 
