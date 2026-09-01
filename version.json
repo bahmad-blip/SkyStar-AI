@@ -1,0 +1,9 @@
+{
+  "version": "2.1",
+  "message": "🎉 SkyStar AI v2.1 — All Bugs Fixed! Jo tumne README me likha tha 'Version 2.0 me kuch kami hai - Version 2.1 Next Week InshaAllah' — wo fix! 5 models auto-switching, pic download, link click, news fix!",
+  "download_link": "https://github.com/bahmad-blip/SkyStar-AI/releases/tag/v2.1",
+  "changelog": "- Fixed: news list error 'list has no strip'\n- Fixed: new chat not working\n- Fixed: heavy model timeout 60s → 180s (3 min)\n- Added: Auto-update checker via GitHub Releases API\n- Added: Email collection via Google Sheet\n- Added: 5 models tiers FAST/BALANCE/HEAVY/VISION\n- Added: Pic download on click → Downloads folder\n- Added: Link click → Chrome me khulega",
+  "release_date": "2026-09-08",
+  "current_stars": 13,
+  "developer": "Sahil Ahmad -sowkai  Mardan, KPK - DAE Civil"
+}
